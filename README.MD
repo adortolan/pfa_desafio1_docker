@@ -16,6 +16,9 @@ Crie um arquivo README.md especificando quais comandos precisamos executar para 
 
 
 1. Rodar a imagem mysql
+- Criar a network
+- docker network pfa_net
+
 - docker run -d -p 3306:3306 --network pfa_net --name mysql_pfa -v /database:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=pfadocker -e MYSQL_DATABASE=pfa -e MYSQL_USER=pfadocker -e MYSQL_PASSWORD=pfadocker adortolan/mysql_pfa
 
 2. Rodar a imagem node
