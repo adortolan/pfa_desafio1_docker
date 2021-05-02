@@ -1,4 +1,4 @@
-# Desafio 1 - Programa FUllCycle de Aceleração
+# Desafio 1 - Programa FullCycle de Aceleração
 
 Tecnolgias utilizadas
  - nodejs
