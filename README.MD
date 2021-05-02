@@ -36,6 +36,6 @@ Lições aprendidas neste desafio:
 - Criar imagem docker a partir dockerfile
 - Criar networks docker
 - Publicar imagem no dockerhub
-- Criar aplicação nodejs em container
+- Criar aplicação node.js em container
 - Criar um banco de dados mysql em container
 - Usar o proxy reverso nginx
