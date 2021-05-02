@@ -1,7 +1,7 @@
 # Desafio 1 - Programa FullCycle de Aceleração
 
 Tecnolgias utilizadas
- - nodejs
+ - node.js
  - mysql
  - nginx
 
